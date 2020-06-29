@@ -4,19 +4,19 @@
 ## Screenshots
 
 
-###                                                              Home Page
+<b><i>Home Page</i></b>
   <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png"><br/><br/><br/>
     </p>
-<b>Admin login</b>
+<b><i>Admin login</i></b>
   <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png"><br/><br/><br/>
     </p>
-# Admin Pane
+<b><i>Admin Pane</i></b>
   <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/admin.png"><br/><br/><br/>
     </p>
-# Report Module
+<b><i>Report Module</i></b>
   <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/report.png"><br/><br/><br/>
     </p>
