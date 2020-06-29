@@ -8,7 +8,7 @@
   <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png"><br/><br/><br/>
     </p>
-## Admin login
+<b>Admin login</b>
   <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png"><br/><br/><br/>
     </p>
