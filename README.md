@@ -4,10 +4,14 @@
 #Screenshots
 
 <p align="center">
-  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png"><br/>
-  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png"><br/>
-  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/admin.png"><br/>
-  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/report.png"><br/>
+  <p>"Home Page"</p>
+  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png"><br/><br/><br/>
+  <p>"Admin Login"</p>
+  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png"><br/><br/><br/>
+  <p>"Admin Pane"</p>
+  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/admin.png"><br/><br/><br/>
+  <p>"Report Module"</p>
+  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/report.png"><br/><br/><br/>
 </p>
 
 
