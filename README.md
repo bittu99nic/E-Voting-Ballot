@@ -4,7 +4,7 @@
 #Screenshots
 
 <p align="center">
-  *Home Page*<br/><br/>
+  Home Page
   
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png"><br/><br/><br/>
   *Admin Login*<br/><br/>
