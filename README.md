@@ -4,7 +4,7 @@
 #Screenshots
 
 
-![homepage]                             (https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png)
+!\t[homepage](https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png)
 
 ![homepage](https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png)
 
@@ -19,6 +19,6 @@ Dear coders you all can give your feedback for this small try towards making jav
 ### *UI (User Interface)*
 Simple and easy created UI,best for beginners.
 
-## *Want to try the application?* Just Clone or download this Repositories
+## *Want to try the application?* Just Clone or download this Repository
 
 # *Hope you like it. 😊*
