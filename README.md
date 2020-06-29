@@ -1,7 +1,7 @@
 
 ### *E-Voting Ballot*
 
-#Screenshots
+## Screenshots
 
 
 ###                                                              Home Page
@@ -16,7 +16,7 @@
   <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/admin.png"><br/><br/><br/>
     </p>
-###   Report Module
+###   *Report Module*
   <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/report.png"><br/><br/><br/>
     </p>
