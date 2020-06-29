@@ -3,18 +3,25 @@
 
 #Screenshots
 
-<p align="center">
-  Home Page
-  
+
+   *Home Page*
+  <p align="center">
   <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png"><br/><br/><br/>
-  *Admin Login*<br/><br/>
+    </p>
+   *Admin login*
+  <p align="center">
+  <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png"><br/><br/><br/>
+    </p>
+   *Admin Pane*
+  <p align="center">
+  <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/admin.png"><br/><br/><br/>
+    </p>
+   *Report Module*
+  <p align="center">
+  <img aling="center" src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/report.png"><br/><br/><br/>
+    </p>
   
-  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png"><br/><br/><br/>
-  Admin Pane
-  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/admin.png"><br/><br/><br/>
-  Report Module
-  <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/report.png"><br/><br/><br/>
-</p>
+  
 
 
 Dear coders you all can give your feedback for this small try towards making java application by using Oracle database. 
