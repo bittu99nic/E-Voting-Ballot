@@ -4,9 +4,11 @@
 #Screenshots
 
 <p align="center">
-  Home Page
+  *Home Page*<br/><br/>
+  
   <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png"><br/><br/><br/>
-  Admin Login
+  *Admin Login*<br/><br/>
+  
   <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png"><br/><br/><br/>
   Admin Pane
   <img src="https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/admin.png"><br/><br/><br/>
