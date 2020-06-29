@@ -4,9 +4,9 @@
 #Screenshots
 
 
-          ![homepage](https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png)
+!         [homepage](https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/home.png)
 
-          ![homepage](https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png)
+!         [homepage](https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/adminlogin.png)
 
           ![homepage](https://github.com/Ankit289Prasad/E-Voting-Ballot/blob/master/src/admin.png)
 
