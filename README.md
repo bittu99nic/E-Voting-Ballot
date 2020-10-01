@@ -28,7 +28,7 @@ Dear coders you all can give your feedback for this small try towards making jav
 
 
 ### *UI (User Interface)*
-Simple and easy created UI,best for beginners.
+Simple and easy created UI(Using Java and mysql),best for beginners.
 
 ## *Want to try the application?* Just Clone or download this Repository
 
